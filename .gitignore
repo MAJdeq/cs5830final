@@ -1,3 +1,5 @@
 .DS_Store
 selected articles by rank
 extracted.xml
+.venv
+*.csv
